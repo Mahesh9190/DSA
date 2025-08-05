@@ -1,4 +1,4 @@
-//Q) write a code to find an element in 2D Array.
+//Q) write a code to find an element in 2D Array and return the array of row no and col no.
 
 import java.util.Arrays;
 
